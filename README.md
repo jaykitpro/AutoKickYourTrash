@@ -7,3 +7,6 @@ Thành viên thực hiện:
   3. Đặng Bình Phước
   4. Nguyễn Thanh Hoà
   
+  TODO:
+    *Train new_dataset
+  
